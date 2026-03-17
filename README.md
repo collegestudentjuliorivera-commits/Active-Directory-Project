@@ -1,6 +1,6 @@
 Enterprise Network Virtualization Lab with Active Directory
 
-
+![Description](<img width="1920" height="1140" alt="Installing a Windows OS in a Virtual Machine" src="https://github.com/user-attachments/assets/f6ea0a14-5a59-4051-a9e7-8311fd39cfeb" />)
 
 
 1. Deployed Windows 11 Virtual Machine
