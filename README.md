@@ -1,2 +1,22 @@
-# Active-Directory-Project
-Built a virtual enterprise network using Oracle VirtualBox. Deployed Windows 11 and Windows Server VMs, configured a Domain Controller with Active Directory Domain Services, implemented authentication policies, and assigned static IPs.
+Enterprise Network Virtualization Lab with Active Directory
+
+
+
+
+1. Deployed Windows 11 Virtual Machine
+- Installed and configured a Windows 11 operating system within an Oracle VirtualBox virtual environment to serve as a client machine in the lab.
+
+
+
+
+
+2. Provisioned Windows Server Environment
+- Installed Windows Server on a separate virtual machine to act as the centralized server for the simulated enterprise network. 
+
+
+
+
+
+3. Configured Domain Controller Services
+- Promoted the Windows Server instance to a Domain Controller by installing and configuring Active Directory Domain Services (AD DS), enabling centralized authentication and domain management.
+
